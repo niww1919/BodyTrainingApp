@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BodyTrainingApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Training</string>
+    <string name="title_notifications">Sitting</string>
+    <string name="push_up">Push up</string>
+    <string name="pull_up">Pull up</string>
+    <string name="sit_down">Sit down</string>
+    <string name="done">Done</string>
+    <string name="iteration">Iteration</string>
+</resources>
